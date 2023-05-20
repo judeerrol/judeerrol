@@ -19,7 +19,6 @@ My name is Jude, I'm a Software Engineer from Philippines.
 🌱 I'm currently interested and learning:
 - System Design
 - Hotwire
-- Minitest for testing
 - Artificial Intelligence (AI)
 
 📫 How to reach me:
