@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    <span>Software Engineer • </span>
-    <span>Web Developer • </span>
-    <span>Backend</span>
+    <span>software engineer • </span>
+    <span>backend • </span>
+    <span>learning AI engineering</span>
   </samp>
 </p>
 <p align="center">
