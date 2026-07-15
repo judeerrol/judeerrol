@@ -7,6 +7,7 @@
 </p>
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/judeerrol/">linkedin</a>
+    <span><a href="https://www.linkedin.com/in/judeerrol/">linkedin</a></span>
+    <span><a href="https://judegamboa.com/">website</a></span>
   </samp>
 </p>
